@@ -1,0 +1,40 @@
+h1 {
+    color: brown;
+    font size: 25px;
+}
+div :content {
+    color: rgb(88, 43, 5);
+    font-size: large;
+}
+
+
+.histoire {
+  
+    background-image: url(https://td-klinker.ru/assets/images/products/1403/klinker-formback-hellrot-bunt.jpg);
+    background-size: width:100%; height:250px;
+    font-family: "salsa";
+      font-style: italic;
+      font-size: 30px;
+      font-weight: 700;
+
+    
+}
+
+.navigation {
+    width: 900px;
+    height: 200px;
+    background-color: salmon;
+    margin-bottom: 10px;
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-03/1614646636_2-p-fon-kafe-dlya-fotoshopa-2.jpg)
+  }
+
+
+
+  .descript {
+
+      width: 300px;
+      color: maroon;
+      font-style: italic;
+      margin: 70px 0 0 30px;
+      font-size: 22px;
+  }
